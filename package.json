@@ -1,0 +1,19 @@
+{
+  "name": "llamaindex-gemini-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "llamaindex-gemini.js",
+  "scripts": {
+    "start": "node llamaindex-gemini.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/genai": "^1.51.0",
+    "@llamaindex/google": "^0.4.0",
+    "dotenv": "^16.4.5",
+    "llamaindex": "^0.2.2"
+  }
+}
