@@ -16,8 +16,8 @@ This project demonstrates a basic Retrieval-Augmented Generation (RAG) pipeline 
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
-    cd project2-LlamaIndex-Gemini-Example
+    git clone https://github.com/aislandmin/RAG_using_LlamaIndex_Gemini.git
+    cd RAG_using_LlamaIndex_Gemini
     ```
 
 2.  **Install dependencies:**
